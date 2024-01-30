@@ -57,6 +57,10 @@ div {
     color: #C4C4C4;
 }
 
+.blue h2 {
+    color: #FFFFFF; /* This is the hexadecimal value for white */
+}
+
 .yellow {
     background-color: #FFFF00;
     text-align: right;
@@ -73,6 +77,11 @@ div {
     border-right: 5px solid;
     border-top: 2px solid;
 }
+
+.green p {
+    color: #000000; /* This is the hexadecimal value for black */
+}
+
 
 footer {
     background-image: linear-gradient(to bottom, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
